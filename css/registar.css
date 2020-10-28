@@ -1,0 +1,84 @@
+*{
+	margin: 0px
+}
+
+body{
+	background:url(../img/aa.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat; 
+}
+
+		}
+.registration-section{
+    
+}
+
+.registration-section h2{ 
+   text-align: center;
+    margin-bottom: 43px;
+    padding-top: 100px;
+    
+}
+
+
+.form-control{
+    width: 80%;
+    height: 20px;
+    padding: 3px;
+    margin-bottom: 15px;
+    margin-left: 142px;
+    margin-right: 93px;
+}
+
+.fcontrol{
+    
+    width: 81%;
+    height: 20px;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-left: 142px;
+    margin-right: 93px;
+}
+.login-btn{
+    padding: 10px 0px;
+    background: darkcyan;
+    color: white;
+    border: none;
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    transition: o.8s ease-in-out;   
+}
+
+.login-btn:hover{
+     box-shadow: 1px 2px 3px 2px;
+    cursor: pointer;
+}
+
+.login-section{
+
+    padding: 9px 15px;
+    background: darkcyan;
+    color: white;
+    border: 25px;
+    margin: 143px;
+    text-align: left;
+    text-transform: inherit;
+    text-decoration: inherit;
+       
+}
+
+.Reset-Section{
+  
+    padding: 10px 30px;
+    background: darkcyan;
+    color: white;
+    text-decoration: initial;
+    text-align: inherit;
+    margin: 100px 729px;
+    /* display: block; */
+    text-align: center;
+    /* text-transform: inherit; */
+   
+}

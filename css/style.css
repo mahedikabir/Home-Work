@@ -1,0 +1,91 @@
+*{
+	margin: 0px
+}
+
+body{
+	background:url(../img/aa.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat; 
+}
+.Container{
+    background: #8f9c91;
+    width: 314px;
+    margin: 100px 30px 0px auto;
+    height: auto;
+}
+
+.login-Section{
+
+    background: lightblue;
+    padding: 10px;
+    margin: 25px;
+}
+
+
+.login-Section img{
+	    width: 50px;
+    margin: 0px auto;
+    display: block;
+
+}
+
+.login-Section h2 {
+
+    text-align: center;
+    font-size: revert;
+    color: blueviolet;
+    width: inherit;
+    font-weight: bold;
+    text-transform: math-auto;
+
+}
+
+
+.form-control{
+    width: 228px;
+    height: 37px;
+    padding: 3px;
+    margin-bottom: 9px;
+    
+}
+
+.login-btn{
+    padding: 10px 0px;
+    background: darkcyan;
+    color: white;
+    border: none;
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    transition: o.8s ease-in-out;   
+}
+
+.login-btn:hover{
+     box-shadow: 1px 2px 3px 2px;
+    cursor: pointer;
+}
+
+.Registar-Section{
+
+    padding: 5px 0px;
+    background: darkcyan;
+    color: white;
+    border: none;
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-transform: inherit;
+       
+}
+
+.Reset-Section{
+  
+    background-color: aquamarine;
+    color: black;
+    border: none;
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-transform: inherit;
+}
